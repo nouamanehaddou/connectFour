@@ -8,7 +8,7 @@ An application developed with Java and JavaFX for UI. It contains two game mode,
 
 <h1> Screenshots </h1>
 <div>
-<img src="https://github.com/nouamanehaddou/" width="250" height="250"/>
-<img src="https://github.com/nouamanehaddou/" width="250" height="250"/>
-<img src="https://github.com/nouamanehaddou/" width="250" height="250"/>
+<img src="https://github.com/nouamanehaddou/connectFour/blob/master/screenshots/1.PNG" width="250" height="250"/>
+<img src="https://github.com/nouamanehaddou/connectFour/blob/master/screenshots/2.PNG" width="250" height="250"/>
+<img src="https://github.com/nouamanehaddou/connectFour/blob/master/screenshots/3.PNG" width="250" height="250"/>
 </div>
