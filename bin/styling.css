@@ -1,0 +1,28 @@
+
+#principalWindowButtons {
+}
+
+#principalWindowButtons:hover{
+}
+
+.button1{
+    -fx-text-fill: #006464;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+
+#principalWindowDesign {
+  	-fx-background-image: url("../src/images/LOGO-2016.png");
+    -fx-background-size: contain ;
+    -fx-background-repeat: no-repeat ;
+}
+
+
+
+.buttonP {
+	 -fx-background-image: url("../src/images/triangle.png");
+	 -fx-background-size: cover ;
+	 -fx-background-color: transparent ;
+}
